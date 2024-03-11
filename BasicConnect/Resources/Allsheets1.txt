@@ -1,0 +1,101 @@
+Sheet List:
+00. Base4 Acronyms
+00. Base4 Annual Calendar
+00a. Master Project List
+00b. Base4 Employee Log
+00b. Leave Record - NP Office
+00b. Leave Record - TB & Int'l Office
+00b. Leave Record - US-DR Office
+00c. Base4 License Information
+00c. City Comments Library
+02. Newsletter Analytics (Open and Click)
+02. Newsletter Analytics MER
+02. Newsletter Monthly Performance
+02. Website Analytics - B4
+02. Website Analytics - SP
+04. Concept-1 Checklist
+04. Master Concept 1 List
+05. Concept-2 Checklist
+06. Client Specific Items
+07. Architectural Checklist
+09. ID Records
+09. Interior Design - Prototypical Checklist
+09. Vendors List
+10. Concept SE Framing
+10. Structural Checklist
+10. Structural Modelling Checklist
+10. Structural Schedule
+11. Mechanical Checklist
+11. MEP - Vendor List
+11. MEP Loads
+12. Electrical Checklist
+13. Fire Alarm Checklist
+14. Lighting Checklist
+15. Plumbing Checklist
+17. Civil Checklist
+18. QC Schedule
+20. MEP-RFI Lessons
+21. Team Allocation
+23. Resources DataBase
+24. Franchise Logins
+24. Operations Credentials
+24. Questionnaire Segment - 1
+24a. B4-###-####-Project Name-BOD Template
+24a. B4-###-####-Project-City, ST-PIP Report
+24f. Franchise Comments Library - Hilton
+24f. Franchise Comments Library - IHG
+24f. Franchise Comments Library - Marriott
+24f. Franchise Comments Library - Other
+24fa. Franchise Stds and Proto Updates
+24fb. Franchise ID Information
+25. General Aptitude Test
+25. Got Talent, Let's Talk - Applications
+29.07. Production-Steps-ARCH
+29.10. Production-Steps-SE
+29.11. Production-Steps-MEC
+29.12. Production-Steps-ELC
+29.14. Production-Steps-LTG
+29.15. Production-Steps-PLM
+29.16. Production-Steps-FP
+29b. Dynamo - Levels
+29b. Dynamo Scripts - Database
+31. Modular Checklist
+B4-000-0000-Test Project-NP
+B4-001-2002-MF-24-Leesburg, FL
+B4-081-2101-SHS-Albuquerque, NM
+B4-088-1701-TPS-Orlando Universal, FL
+B4-093-1701-TPS-Ironton, OH
+B4-093-1801-HIEX-Ruskin, FL
+B4-093-1802-FFIS-Columbus, OH
+B4-093-1803-HIEX&S-Moundsville, WV
+B4-093-1901-HIEX&S-Wildwood, FL
+B4-108-1701-HWS-Poughkeepsie, NY
+B4-108-1702-CYM-Hamilton, NJ
+B4-108-1703-RI-Ocean, NJ
+B4-108-1801-HWS-Edison, NJ
+B4-108-1802-Element-Wood Ridge, NJ
+B4-108-1804-CYM-Toms River, NJ
+B4-108-1901-HWS-Parsippany, NJ
+B4-108-1906-H2S-Branchburg, NJ
+B4-109-1701-TPS Marion, IA
+B4-109-1801-SHS-Ames, IA
+B4-109-1901-H2S-Indio, CA
+B4-109-1902-Moxy-Des Moines, IA
+B4-109-2001-HI-Owatonna, MN
+B4-114-1701-Dual Hotel Durango, CO
+B4-114-1702-HIEX&S-Boulder, CO
+B4-122-1802-H2S-Toledo, OH
+B4-122-1901-WSS-Jacksonville, FL (Baymeadows Rd)
+B4-122-1902-H2S-State College, PA
+B4-122-1903-WSS-Concord, NC
+B4-124 -1702-HWS-Hanover, MD
+B4-124 -1703-HGI-Hanover, MD
+B4-124-1601-Dual Hilton-Broomfield, CO
+B4-124-1701-SBS-Concord, NC
+B4-124-1704-SHS-Bridgewater, NJ
+B4-124-1705-RI-Bridgewater, NJ
+B4-124-1706-HH-Albany, NY
+B4-124-1707-SBS-Charlotte, NC
+B4-124-1801-H2S-Happy Valley, OR
+B4-124-1802-RI-Cincinnati, OH (Blue Ash)
+B4-124-1803-HWS-Puyallup, WA

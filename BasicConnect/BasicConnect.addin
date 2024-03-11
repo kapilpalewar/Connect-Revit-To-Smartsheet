@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+		<Name>BasicConnect</Name>
+		<Assembly>BasicConnect.dll</Assembly>
+		<AddInId>{17E230BE-338B-425A-8422-7F939E049DD9}</AddInId>
+		<FullClassName>BasicConnect.Application</FullClassName>
+		<VendorId>Kalyani Moon</VendorId>
+		<VendorDescription></VendorDescription>
+	</AddIn>
+</RevitAddIns>

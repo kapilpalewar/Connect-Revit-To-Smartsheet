@@ -1,0 +1,2540 @@
+Sheet: B4-249-2101-H2S-Jonestown, PA
+
+Column: Testing
+Row Values:
+
+
+Project Number
+Project Name
+
+Project Address
+
+
+
+
+
+
+
+
+
+
+Project Issue Date
+
+
+
+Client Name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column: CONTENTS
+Row Values:
+YYYY.MM.DD-H2S-Jonestown, PA-DISCPLINE
+
+B4-249-2101
+Home2 Suites
+Paul Gage & Carlos Guillen
+Fort Indiantown Gap, PA
+Jonestown
+Lebanon County
+Pennsylvania
+Zip Code
+
+Base4 will PROCEED or HOLD on Production - Client to confirm
+
+XXXX.XX.XX
+XXXX.XX.XX
+XXXX.XX.XX
+XXXX.XX.XX
+XXXX.XX.XX
+CONTENTS
+
+The Oak View Group
+Neil Patel
+neil@oakviewhm.com
+TBD
+(717)420-6287
+COMPANY NAME
+TBD
+TBD
+###.###.####
+Chris Land Engineering
+Josh Weaber
+jweaber@chrislandengineering.com
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+HILTON
+Jeremy Dollar
+Jeremy.Dollar@Hilton.com
+1-901-304-1482
+COMPANY NAME
+TBD
+TBD
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+
+COMPANY NAME
+TBD
+TBD
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+COMPANY NAME
+TBD
+TBD
+###.###.####
+
+
+Wood
+Full prototypical
+
+PTAC
+Wood
+Level 0
+
+Hilton
+Home2 Suites
+######
+
+V2.3
+Z:\Shared\Base-4\Projects\2021 Projects\B4-249-The Oakview Group\B4-249-2101-H2S-Jonestown, PA\Franchise Standards
+July 2021
+Z:\Shared\Base-4\Projects\2021 Projects\B4-249-The Oakview Group\B4-249-2101-H2S-Jonestown, PA\Franchise Standards
+Latest Prototype # or Date
+Save Interior Design Package to be used on the project folder on cloud and copy path here
+Tier #1 or Tier #2
+To be considered Tier 1 the property must meet the all of the following:
+1)	Be under 75’ from the lowest point of fire department access to the floor of the top occupied floor (ie, not a high-rise as defined by Marriott in our design standards).
+2)	Be under 250 guestrooms, inclusive of the whole building (ie, co-branded properties which have over 250 rooms total but under 250 individually do not fall under Tier 1).
+3)	Under 25,000 square feet of meeting space
+4)	Defined as Tier 2 by Marriott FLS for another reason.
+
+Each month when the projects go to committee for approval and get approved, FLS will go through the approvals and place the projects in Tier 1 or Tier 2, and then notify all Tier 1 properties that they will need to decide which route they will go.  Of the properties who decide to opt into the self-certification Marriott will audit 20% prior to opening and trainer release, thus any issues encountered could cause delays in opening.
+
+For properties who opt to go with the third-party certification, we will need the following:
+
+1)	Signed selection form with the name and contact info for the: 
+a.	The architect of record who will be signing off on the design and signing of that the design meets Marriott’s design standards.
+b.	The Owners third-party licensed fire protection engineer, licensed engineer of record, or fire and life safety consultant who will be signing off at project closeout that all system have been tested and meet Marriott’s design standards
+2)	At the completion of the construction documents we will need the signed design certification from the AOR. (certification located in franchise agreement)
+3)	At project closeout prior to trainer release we will need the signed certification from the Owners third-party licensed fire protection engineer, licensed engineer, or fire and life safety consultant that systems have been tested and meet Marriott’s design standards. (certification located in franchise agreement)
+
+If the owner decides to use Marriott’s services the $7,500 fee includes:
+
+1.	Thirty Percent (30%) Design Document Drawings.  Marriott will conduct a review of the thirty percent (30%) complete design document drawings.  Such review will include a review of the architectural, fire alarm system and fire suppression drawings, including shop drawings, if available. Upon review, Marriott will provide a letter to Owner summarizing the fire protection and life safety related issues observed during this review, with comments for each discipline and the applicable code references. A copy of the letter will be provided to the Marriott International Design & Construction Services, Inc. (“Marriott Design & Construction”) Project Manager, and the Marriott Design & Construction Design Manager.
+
+2.	Shop Drawings, Cut Sheets and Calculation (Battery and Hydraulic) Documents. Marriott will perform a review of the Fire Alarm and Sprinkler Shop Drawings, Cut Sheets, and Calculation (battery and hydraulic) Documents limited to such documents’ compliance with applicable codes and the Life Safety Design Standard. Upon review, Marriott will provide a letter to Owner summarizing the fire protection and life safety related issues related to the Fire Alarm and Sprinkler Shop Drawings, Cut Sheets, and Calculation (battery and hydraulic) Documents.  A copy of the letter will be provided to the Marriott Design & Construction Project Manager.
+
+3.	Ninety Percent (90%) Design Document Drawings.  Marriott will perform a review of the ninety percent (90%) complete design documents limited to such documents’ compliance with applicable codes and the Life Safety Design Standard.  This review will include a review of the architectural, fire alarm system, and fire suppression system comments from the thirty percent (30%) phase, and shop drawings, if available. Upon review, Marriott will provide a letter to Owner summarizing the fire protection and life safety related issues related to the Ninety Percent (90%) Construction Document Drawings.
+
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IBC 2003 (or state building code) 
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IBC 2015 (or state building code) 
+https://codes.iccsafe.org/codes/pennsylvania
+IBC 2018 (or state building code)
+ICC/ANSI A117.1 2015 (or state building code)
+IBC 2021 Chapter 11, ANSI 2017
+ICC 2003 (or state building code)
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+ICC 2015 (or state building code)
+https://codes.iccsafe.org/codes/pennsylvania
+ICC 2018 ( (or state building code))
+IPC 2015 (or state building code)
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IPC 2018 (or state building code)
+IMC 2003 or state building code)
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IMC 2015 or state building code)
+https://codes.iccsafe.org/codes/pennsylvania
+IMC 2018  (or state building code)
+IFC 2003 (or state building code)
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IFC 2015 (or state building code)
+https://codes.iccsafe.org/codes/pennsylvania
+IFC 2018  (or state building code)
+IFGC 20XX (or state building code)
+IECC 2003 (or state building code)
+https://codelibrary.amlegal.com/codes/johnstownpa/latest/johnstown_pa/0-0-0-51908
+IECC 2015 (or state building code)
+https://codes.iccsafe.org/codes/pennsylvania
+IECC 2018  (or state building code)
+Add code name and link here if applicable
+
+No
+R-1
+No
+No
+Yes
+Yes
+NEED PRIOR TO START OF CD'S OR SCHEDULE COULD BE DELAYED
+Z:\Shared\Base-4\Projects\2021 Projects\B4-249-The Oakview Group\B4-249-2101-H2S-Jonestown, PA\Client-From Client\2021.11.02 Concept Package\18 190018-SHT18
+– Restrictive OR Flexible (Additional Remarks)
+– Not Received (When received, copy path from cloud here)
+– Not Received (When received, copy path from cloud here)
+– Not Received (When received, copy path from cloud here)
+– Point of use (interior) or Exterior? (Exterior as default if no inputs)
+– Not Received-We need at least a Brand to get dimensions from
+– Not Received
+– Not Received
+– Not Received
+– Sign off from a concept plan with Date
+– Do you plan to pursue energy rebates/incentives of any kind?
+– ID Scheme Selection
+
+
+Yes
+92
+R-1
+V-A
+Wood framed hotel, CMU elevators and stairs
+Indoor
+Surface
+-xx,xxx Sq Ft.
+-xx,xxx Sq Ft.
+(Construction Type V-A) 36,000 sq ft
+
+4 stories
+(Construction Type V-A) 4 stories
+See Attachment on Left for Option
+xx’- xx” (xx’- xx” to Parapet)
+xx’- xx”
+14'-0" (Owner request)
+xx’- xx”
+10'-2 3/8"
+10'-2 3/8"
+xx’- xx”
+xx’- xx”
+(Construction Type V-A) 70’- 0"
+
+# exits
+# exits
+*Strikethrough the rows that are not applicable to the project
+5A
+https://www.energy.gov/sites/prod/files/2015/10/f27/ba_climate_region_guide_7.3.pdf
+
+R-30ci
+R-19 + R-11 LS
+R-49
+
+R-13.3ci
+R-13 + R-13ci
+R-13 + R-7.5ci
+R-13 + R-7.5ci or R-20 + R-3.8ci
+
+R-7.5ci
+
+R-12.5ci
+R-30
+
+R-10 for 24″ below
+R-15 for 36″ below
+
+U-0.65
+
+U-0.38
+U-0.45
+U-0.77
+
+U-0.64 N / U-0.64 SEW (if awnings/canopies are provided)
+
+U-0.50
+U-0.40
+
+4" Concrete Slab
+
+Wood
+UL L570
+5/8" Roof Sheathing, 16" Engineered Wood I joist spaced 24" max., 1/2" Resilient Channel, 2 layers 5/8" fire rated Gypsum Board refer to UL
+5/8
+1'-6 5/8"
+1HR
+60-64 STC / 51 - 58 IIC
+Corridor to Exterior
+Wood
+Calculated assembly per FBC
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X8 Floor Joist (Glass Fiber Insulation) +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+3/4
+10 1/2''
+1 HR
+50 STC
+Perpendicular to corridor
+2x10 Joists
+FC 5725
+3/4" Floor Sheathing + 5/8" fire rated Gypsum Board refer to UL + 2x10 wood joist + 3 layers of 5/8" fire rated Gypsum Board refer to UL
+3/4
+1'-1 1/4"
+2 HR
+N/A
+Perpendicular to elevator shaft
+2x8 I joist
+UL L570 or GA-FC-5011
+3/4" Floor Sheathing + 1 layer 5/8" fire-rated Gypsum Board refer to UL + 2x8  I joist spaced 24" max.+ 1 layer 5/8" fire-rated Gypsum Board refer to UL + Ceiling
+5/8
+10'-1/2"
+1HR
+## STC
+Corridor to Exterior or Demising to Demising
+<down> 4"- R-30 Rigid Insulation + 1/2" Cover Board + 60mil Firestone or equal TPO <up>
+Wrapped Protected
+UL N###
+# HR
+Wrapped Protected
+UL X528
+1 HR
+
+4" Concrete
+N/A
+UL X###
+<down> #/#" layer + #/#" layer <roof>
+15/32" OR 19/32" OR 23/32"- To be finalise after 30%
+xx"
+# HR
+## STC
+Corridor to Exterior or Demising to Demising
+I Joist
+GA FILE NO. FC 5107 / ICC ES REPORT NO. ESR-1153
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X16 TJI Floor +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 16" Engineered Wood I joist spaced 24" max.+3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+3/3
+1'-7 1/4"
+1 HR
+50 STC
+Corridor to Exterior
+2x8
+Calculated assembly per FBC
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X8 Floor Joist (Glass Fiber Insulation) +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+3/4"
+10 1/2''
+1 HR
+50 STC
+Perpendicular to corridor
+
+
+Poured (Preferred)
+<elevator> 8" Concrete + bentonite WB <earth>
+Poured
+<elevator> 8" Concrete + bentonite WB <earth>
+Yes/No- Poured as part of foundation or CMU on Footing
+
+6" Wood Stud
+UL #U356
+<exterior>Finish+1/2" Sheathing+ 5 1/2" wood stud (R-13 batt insulation)+ fire rated 5/8" Gypsum board refer to UL<interior>
+6 5/8"
+1 HR
+## STC
+Insert image here
+*Interior layers to be added as needed to flush finishes with interior walls*
+2x6 Wood
+U356
+5/8" Type X Gyp Board+5/8" Type X Gyp Board + 5 1/2" Wood Stud + 1/2" Sheathing + Finish
+7-1/4"
+1 Hour- Rated From inside Only
+N/A
+Same as bearing
+*Interior layers to be added as needed to flush finishes with interior walls*
+
+2x6 Wood
+U305
+5/8" Type X Gyp Board + 1/2" Resilient Channel + 5/8" SE Sheathing + 5 1/2" Wood Stud + 5/8" SE Sheathing + 5/8" SoundBreak XP Gyp Board
+8 1/2"
+1 Hr
+56
+Insert image here
+2x6 Wood
+U305
+5/8" Type X Gyp Board + 1/2" Resilient Channel + 5/8" Gym Board + 5 1/2" Wood Stud + 5/8" SE Sheathing + 5/8" SoundBreak XP Gyp Board
+8 1/2"
+1 Hr
+56
+Same as bearing
+2x6Wood
+U311
+5/8" Type X Gyp Board + 5/8" SE Sheathing+ 5 1/2" Wood Stud + 5/8" SE Sheathing + 1/2" Resilient Channel + 5/8" Type X Gyp Board
+8 1/2"
+1 Hour
+52
+Insert image here
+2x4 Wood
+U311
+5/8" Type X Gyp Board + 5/8" SE Sheathing+ 5 1/2" Wood Stud + 5/8" SE Sheathing + 1/2" Resilient Channel + 5/8" Type X Gyp Board
+8 1/2"
+1 Hour
+52
+Insert image here
+2x6Wood
+UL 419
+5/8" Type X Gyp Board + 5/8" Type X Gyp Board + 5/8" SE Sheathing + 5 1/2" Wood Stud + 5/8" SE Sheathing + 5/8" Type X Gyp Board + 5/8" Type X Gyp Board
+
+2 Hour
+54
+Insert image here
+Wood/CMU/Metal/Concrete
+N/A
+5/8" Gypsum Board + 3 1/2" or 5 1/2" Wood Stud + 5/8" Gypsum Board
+5/8" Gypsum Board + 3 1/2" or 5 1/2" Wood Stud
+xx"
+N/A
+N/A
+Insert image here
+
+Wood (treated or Standard)/Steel/Concrete Precast
+Wood
+UL 419
+5/8" Type X Gypsum Board + 5/8" Type X Gypsum Board + (5.5" Wood Stud) +  5/8" Type X Gypsum Board + 5/8" Type X Gypsum Board + 1" Air Gap + 5/8" Gypsum Board + (3.5" Wood Stud)+ 5/8" Gypsum Board
+1' 1 3/4"
+2hr
+60+
+Insert image here
+2x6 Wood
+U356
+5/8" Type X Gyp Board + 5 1/2" Wood Stud + 1/2" Sheathing + Finish
+6 5/8"+Finish
+1 Hour- Rated
+N/A
+Insert image here
+*Interior layers to be added as needed to flush finishes with interior walls*
+
+2x6Wood
+UL 419
+5/8" Type X Gyp Board + 5/8" Type X Gyp Board + 5/8" SE Sheathing + 5 1/2" Wood Stud + 5/8" SE Sheathing + 5/8" Type X Gyp Board + 5/8" Type X Gyp Board
+xx"
+2 Hour
+54
+Insert image here
+2x6 Wood
+UL 311
+5/8" Type X Gyp Board + 5/8" SE Sheathing+ 5 1/2" Wood Stud + 5/8" SE Sheathing + 1/2" Resilient Channel + 5/8" Type X Gyp Board
+xx"
+1 HR
+N/A
+Insert image here
+*Interior layers to be added as needed to flush finishes with interior walls*
+
+Metal Studs
+UL U428
+<shaft> 1" MR Shaft Liner Panel + 2 1/2" CH Steel Stud (1" embed in Liner) + 5/8" Type X Gypsum Board + 5/8" Type X Gypsum Board <room>
+3 3/4"
+2 HR
+N/A
+Insert image here
+Metal Studs [Verify if required or not based on # of floors]
+UL U428
+<shaft> 1" MR Shaft Liner Panel + 2 1/2" CH Steel Stud (1" embed in Liner) + 5/8" Type X Gypsum Board + 5/8" Type X Gypsum Board <room>
+3 3/4"
+2 HR
+N/A
+Insert image here
+Wood/CMU/Metal/Concrete
+N/A
+<exterior> Finish + #/#" layer + #/#" layer <roof>
+xx"
+N/A
+## STC
+Insert image here
+Wood/CMU/Metal/Concrete
+N/A
+5/8" Gypsum Board + 3 1/2" or 5 1/2" Wood Stud + 5/8" Gypsum Board
+xx"
+N/A
+N/A
+Insert image here
+
+<duplicate as needed for the project>
+1/8" Fluid applied waterproof membrane+ 1/8" Drainboard Adhesive+ 1 1/2" EIFS
+1 3/4"
+Dryvit
+
+<wall> WRB + Nichiha clip fastener + Nichiha Vintagewood Redwood siding <exterior>
+1" (5/8" fiber cement panel + 3/8" fastener clip)
+Nichiha
+
+<wall>WRB + Galv. metal lath + scratch coat + mortar +Coronado Stone Urbana Smooth Smoke<exterior>
+1 3/8" (1" Coronado stone + 3/8 mortar)
+Coronado Stone
+
+
+
+Min (7'-6") - Proto (9'-6") - Project (9'-6")                                                                   PROTO
+5/8" Gypsum Board + 3 5/8" Metal
+14'-0" (Owner request)
+1'-7 1/4"
+26"
+
+Min (8'-0") - Proto (8'-0") - Project (8'-0")
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'-3"
+26"
+
+Min (8'-0") - Proto (8'-0") - Project (8'-0")
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'- 2 5/8"
+12"
+
+Min (10'-0") - Proto (10'-0") - Project (10'-0")
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'-3"
+26"
+
+Min (9'-6") - Proto (9'-6") - Project (9'-6") With a soffit dropped at 8'-10"
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'-3"
+26"
+
+Min (x'-x") - Proto (x'-x") - Project (x'-x")
+5/8" Gypsum Board + 3 5/8" Metal
+14'-0"
+1'-3"
+26"
+
+10' -3 5/8" With a soffit dropped at 8'-0"
+5/8" Gypsum Board + 3 5/8" Metal
+N/A
+1'-3"
+xx"
+
+Min (8'-0") - Proto (8'-0") - Project (8'-0")
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'-3"
+0"
+Start with 12” & Verify
+
+Min (7'-3") - Proto (7'-3") - Project (7'-3") adjacent entry area with the same ceiling height
+5/8" Gypsum Board + 3 5/8" Metal
+11'-0 3/4"
+1'-3"
+12"
+Start with 12” & Verify
+
+
+
+K X% - QQ X %
+K X% - QQ X %
+
+Tub X% - Shower X%
+Tub X% - Shower X%
+
+#W -(Start With prototype)
+#D -(Start With prototype)
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Required/Optional/Not Specified
+Write here the minimum requirements and if project will have or not
+Delete the ones not specificed by Franchise
+
+60 STC
+60 STC
+60 STC
+60 STC
+50 STC
+60 STC
+60 STC
+60 STC
+50 STC
+XX STC
+
+55 IIC
+55 IIC
+
+60 STC
+
+54 STC
+XX STC
+XX STC
+
+54 STC
+
+XX STC
+
+
+– Restrictive OR Flexible (Additional Remarks)
+Add comment here if any
+Write location on site
+Write location on site if applicable
+Required/Not Required
+Generator Type
+Write location on site
+Write location on site
+
+xx' - xx"
+xx' - xx"
+xx' - xx"
+– XX’-X” minimum on all sides of building
+
+Owner Vendor to provide or B4? Typically Base4 unless otherwise noted
+All retaining walls to be by Civil engineer
+
+X Space per room
+X Space per room
+ADA parking – X van parking + X Spaces
+XX as per city; XX as per brand; We are following City or Brand
+Provide (1) xx’ X xx’ X xx’ Clear height Loading zone per every xx,xxx sq. ft. of building foot print
+
+
+Per Prototype Or Owner vendor. Typically per proto unless otherwise noted
+
+Write here if any remark
+
+36”x24”-Verify With City if any other size
+Digitally
+
+Client or Expeditor
+Permit
+Health Department
+Pool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TBD
+###.###.####
+TBD
+
+
+Row 642
+Row 908
+Row 1033
+Row 1222
+Row 1344
+
+
+
+
+
+90.9 °F & 72.3 °F
+6.0 °F
+
+75(°F)
+68-70(°F)
+
+See U and R values in Architectural BOD above
+(Base4 only list U and R values here for MEP only projects)
+Walls - R-13 + R-7.5ci or R-20 + R-3.8ci
+Roof -R-30ci
+Windows - U-0.38
+
+
+
+
+
+MAUs will be Trane/AAON or approved equals.
+Located on Roof
+2 vertical shafts on each side of building or one shaft at center servicing all floors.
+Openings in compliance with IECC C402.5.4
+
+Horizontal ducts at the top level ceiling will connect exhaust ducts.  The exhaust air will be run through an ERV to pre/heat or pre/cool the outside air going into the MAU.
+ERVs shall be designed according to IECC C403.2.7.
+Demand controlled ventilation shall be designed according to IECC C403.2.6.1.
+Not required (required for high rise buildings only)
+
+Ductwork will be sized with 0.08” WC / 100 feet.
+Air speed will be 1200 ft/min maximum.
+Ducts will be sheet metal rectangular ducts as per SMACNA standard (No Fiberboard).
+Fire dampers or UL rated details will be placed where ducts penetrate fire rated walls – but not at corridor guest walls where dedicated OA duct is used.
+Diffusers and grilles will be per hotel design manual.
+Duct mounted smoke detectors will be used in ducts over 2000 cfm.
+All ducts will be insulated with minimum 1” of elastomeric duct wrap or lining.
+All piping serving as part of a heating or cooling system shall be thermally insulated in accordance with IECC C403.2.10.
+All condensate piping will be connected to the storm drains.
+Use combination FCO/Smoke Detector
+All detectors shall be addressable and connected to FAAP
+Locate CO detectors per state requirements/statutes
+CO detectors shall be provided in rooms containing fuel burning appliance.
+
+Thermostats in guest rooms and public spaces shall be manufacturer's standard wired T-stat.
+Thermostats in guest rooms and public spaces shall be Verdant/Telkonet with occupancy sensor.
+Locations of thermostats in public spaces shall not be accessible to guests.
+
+
+Split DX systems – Trane OR EQUIVALENT
+Ducted Return (No Plenum Return)
+Indoor AHUs in mechanical rooms OR AHUs in ceilings
+Outdoor condensers outside on grade level or Roof
+Indoor Heating will be electric
+No PTACs allowed
+Supply air designed for a minimum of 6 air changes per hour (ACH) or that required by design.
+
+Outside air will be ducted to split DX systems from MAUs
+Heating will be gas for MAUs
+
+Exhaust will go out to side of buildings. Locate exhaust louvers in inconspicuous locations. (Not near major public spaces or doors.)
+Exhaust fans will be located in the ceiling
+Exhaust fans will be Cook, Panasonic or Greenheck; maximum 1.0 SONES
+Required Supplemental exhaust fans will be separately switched/controlled
+
+
+Split DX systems – Trane OR EQUIVALENT
+Ducted Return (No Plenum Return)
+Indoor AHUs in ceilings
+Outdoor condensers outside on grade level or Roof
+Indoor Heating will be electric
+No PTACs allowed
+Supply air designed for a minimum of 6 air changes per hour (ACH) or that required by design.
+
+Outside air will be ducted to split DX systems from MAUs
+Heating will be gas
+
+No kitchen hood required
+Exhaust will go out to side of buildings
+Exhaust fans will be located in the ceiling
+Exhaust fans will be Cook, Panasonic or Greenheck
+Exhaust fans will be switch controlled
+
+
+Equipment in utility room – back flow preventer, circulation pumps, hot water heaters, sprinkler valve assembly, fire pump, ATS, switch gear, panels – Provide connection for Water Softener
+
+Make-up from MAUs through door undercut or ducted into the room
+MAU Heating will be gas
+
+Exhaust fans will be connected to thermostat – on at 80 °F.
+
+Water heater intake air will come in from side wall
+
+
+Make-up from MAUs through door undercut or ducted into the room
+MAU Heating will be gas
+
+Exhaust fans will be connected to thermostat – on at 80 °F.
+
+
+Indoor Pool
+Pool equipment room is required next to pool
+Heated Pool - Gas
+
+DHU Equipment will be Seresco
+Auxiliary Heating will be electric duct heaters.
+The Seresco unit will be specified with pool water pre-heating option
+
+
+Fitness room will be designed to be in negative pressure
+
+Split DX systems – Trane OR EQUIVALENT
+Ducted Return (No Plenum Return)
+Indoor AHUs in mechanical rooms OR AHUs in ceilings
+Outdoor condensers outside on grade level or Roof
+Indoor Heating will be electric
+No PTACs allowed
+Supply air designed for a minimum of 6 air changes per hour (ACH) or that required by design.
+
+Outside air will be ducted to DX systems from MAUs
+Heating will be gas
+
+Switched Intermittent fan through roof or side wall
+Fan to be Cook, Panasonic or Greenheck
+
+
+Split DX systems – Trane OR EQUIVALENT
+Ducted Return (No Plenum Return)
+Indoor AHUs in mechanical rooms OR AHUs in ceilings
+Outdoor condensers outside on grade level or Roof
+Indoor Heating will be electric
+No PTACs allowed
+Supply air designed for a minimum of 6 air changes per hour (ACH) or that required by design.
+
+Outside air will be ducted to split DX systems from MAUs
+Heating will be gas
+None
+
+
+Surface mounted electric cabinet unit heaters will be installed only at Ground Floor.
+Maintain minimum 50 degrees F.
+Cabinet unit heaters will be provided by Electrical contractor.
+None
+None
+
+Not required
+Required when building is classified as high rise building
+Design to follow requirements of IBC, NFPA 92, NFPA 101
+
+
+Supplemental surface mounted cabinet unit heaters when required in cold climates.
+Supply from public space AHU
+None
+None
+
+
+Mini Split DX system – Mitsubishi (Cooling only)
+Outdoor condensers outside on grade level or Roof
+None
+None
+
+Install Smoke Detector in elevator lobby.
+Include ASME Phase I Fire Service - Upon activation of smoke detector, elevator car should automatically recall to the first floor and become inoperable.  (Required per IFC 607.1 when travel distance of 25’ or greater)
+
+Option #1: Roof exhaust fan-500CFM approx. that will pull air from other part of the building to cool elevator equipment
+Option #2: Ducted cooling unit on the top floor that will provide cooling for elevator equipment on the top of elevator shaft.
+
+
+Mini Split DX system – Mitsubishi (Cooling only)
+Outdoor condensers outside on Roof
+None
+None
+None
+
+
+There is a linen chute.
+For guest laundry rooms use dryer vent connection box
+
+Split DX system - Trane OR EQUIVALENT
+Ducted Return (No Plenum Return)
+Indoor AHUs in mechanical rooms OR AHUs in ceilings
+Outdoor condensers outside on grade level or Roof
+Indoor heating will be electric
+Supply air designed for a minimum of 6 air changes per hour (ACH) or that required by design.
+
+Outside air will be ducted to split DX systems from MAUs
+Heating will be gas
+
+Dryer exhaust will go out through side wall
+Rooms will be designed in negative pressure
+
+Supply from MAU
+None
+
+Continuous exhaust fan – 70 cfm/urinal & 70 cfm/WC
+Maintain negative pressure relative to surrounding spaces.
+Exhaust fans to be Cook, Panasonic, or Greenheck.
+
+
+MAU on roof will be used to condition corridors.
+
+Outside air will be ducted to corridor from MAUs
+Heating will be gas
+Minimum ventilation (OA) rate of 2 air changes per hour.
+None
+
+
+PTACs
+GE Zoneline or Amana
+PTACs use heat pumps with back-up electric heat
+Thermostat location should be as per prototype
+
+Outside air will be directly ducted to rooms via 4” brand duct from corridor. [or on roof and down shafts]
+Heating will be gas.
+Diffusers will be American Aldes CSB3-WB.  [Or Diffusers will be American Aldes CSB3-CS register boxes integrated with CAR3 constant flow regulator (Condition when diffuser is in ceiling and not dropped soffit in foyer)]
+Built in CAR (Constant Airflow regulator)
+No damper required.
+
+Run individual 4” ducts from exhaust fan to roof.
+4” ducts to roof for each room
+Ganged at roof with gravity ventilator on roof
+Run individual 4” ducts from exhaust grille to roof.
+4” ducts to roof for each room
+Ganged at roof with ERV exhaust duct
+
+Roof top fan (25 CFM per room)
+Guestroom Intermittent Fans: 50 CFM switched
+3 speed fan – 35 CFM constant, 80CFM when switched on
+Continuous Roof Fans: 25 CFM/Guestroom
+Use American Aldes Exhaust Register box with CAR (Constant Air regulator set at 25 cfm)
+Supplemental exhaust fans will be separately switched/controlled
+All grilles will have backflow preventer
+
+Use combination First Alert CO/Smoke Detector- Model BRK SC9120B
+In ADA rooms all detectors shall be wired to the FACP.
+
+
+
+
+Per NEC room must have 2 doors
+MSB should not be in same room as water heaters or pumps.
+Cu conductor for below 100 Amp. Use Al conductor for 100 Amp or more than 100 Amp
+
+Base4 will coordinate with civil engineer and confirmed final location for the transformer. Base4 will provide load calculation and coordinate with utility company for final size and spec of transformer.
+Provided by utility company
+2500 AMP
+
+Owner to confirm EV charging station specification
+Provide Underground empty conduits (3” min) for future power from electric distribution and 2” min empty conduit for control wiring from computer system to on-site vehicle charging equipment 
+Owner to confirm which type of car charging station required:
+Level1 Charging station 120Volt: Base4 will provide  20/30 Amp breaker in panel for future use.
+Level2 Charging station 240Volt: Base4 will provide 30/50/100 Amp breaker in panel for future use.
+
+
+For power to automatic doors
+For sign on roof
+For Building Signage in Site
+
+
+GFCI receptacle in Wet areas, Kitchen, bathroom, exterior or within 6 feet of a sink or wash basin as per NEC article 210.8
+Back to back and thru-wall outlets are not permitted (Sound transmission and fire rating)
+General purpose receptacle provide 8 per each 20A circuit.
+
+Fitness Center, as needed
+Lamp locations in the Pubic Space
+
+Provide 2 Per wall rcpt. per each 20A circuit
+Provide Max. 5 wall rcpt, each 20A circuit
+Provide only 8 rcpt, each 20A circuit in Guest Corridors – locate every 20’.
+Provide only 2 rcpt, each 20A circuit.
+Provide only 5 rcpt, per each 20A circuit in Building Exterior and on roof –WP/GFCI.
+
+Provide one circuit for guestroom & one circuit for guest bathroom & additional circuits for special appliances.
+All branch circuits supplying outlets in living area, sleeping area and dining area in guest room and suites shall be protected by a listed arc-fault circuit interrupter, combination type, installed to provide protection of branch circuit as per NEC 210.12.
+Dedicated receptacle for kitchen appliances.
+Provide separate circuit for each machine and receptacles for equipment
+
+Provide a point addressable intelligent central fire alarm system
+Show manual pull stations, audio-visual alarm signal devices (speakers/strobes), smoke/CO detectors, duct smoke detectors, heat detectors, sprinkler flow and tamper switches.  All detectors in common rooms will be wired to FACP.
+Magnetic hold open at all stairway doors as well as on linen chute.
+Low frequency use audible/visual strobe for each accessible/hearing impaired room and in living and sleeping room of accessible/hearing impaired suites.
+Smoke detector with low frequency horn strobe of 520Hz in each standard, accessible and/or hearing impaired guestroom.
+CS detector for mechanical room, electrical room, laundry, kitchen, pool equipment room, elevator equipment room, guest corridor, pool area etc.
+Audible/visual strobe as per code for all public, BOH, offices, corridor etc.
+Smoke detector with sounder base for all public, BOH, offices, corridor etc.
+FACP near entrance and in office
+FA Annunciator Panel will be located near entrance near lobby registration (near location of 24 hour per day employee)24 hour per day employee)
+
+
+Low voltage wires shall be run in smurf tube in the ceiling of the corridor.
+No plenum rated wire.
+
+
+
+
+
+
+
+
+Owner to Confirm
+Owner to Confirm
+List items to be connected to generator
+
+
+
+Owner shall provide elevator spec for electrical load and breaker sizes at the design stage
+Elevator vendor shall confirm
+
+
+
+
+
+
+
+
+Owner to confirm
+Not Required
+
+Follow prototype kitchen layout and equipment
+Provide WP/GFI receptacle in Kitchen.
+Power to dishwashing hood.
+Power to exhaust fans.
+Pool Vendor need to provide pool equipment schedule for SP pool panel connection detail.
+100 Amp panel in pool mechanical room for pool equipment
+All pool motors will be GFCI protected
+
+Doorbell annunciators for accessible guestroom: devices should be in each sleeping room, dwelling area, and in a toilet guestroom.
+For IECC 2012 - Guest room should have master switch per IECC 405.2.3 to control all permanently installed light s and switched receptacles.
+For IECC 2015 - As per IECC provide master switch for all fixed lighting near entrance.  Lights will have local switches (no occupancy sensors)
+No Electrical panels in guestrooms.
+All bathroom receptacles should be GFCI.
+PTACS will be hard wired to sub-base.  Not plug-in’s allowed.
+Arc Fault Circuit Interrupters (outlets and lighting) required per local code.
+
+
+Use LED type lighting fixtures – fixtures to match Prototype Design Manual fixtures.
+Photometric calculations – site photometrics will be provided
+Add note, “All fixtures shall be as per brand standards”.
+
+Lighting controls will meet the requirements of IECC C405
+Local Switch-Electrical, mechanical, sales, PBX room, pool equipment, GM office, Guest Bathroom etc.
+Occupancy sensor-Prep. room, workroom, laundry room, storage, linen room, storage,  guest laundry, Employee Break room, etc
+Keyed switch-Fitness room, Indoor pool, and Public restroom.
+Lighting control panel- Corridor area, elevator lobby, Vestibule, Front desk, Ice Dispenser, etc
+Photocell/Day-light sensor-Vestibule, exterior lighting.
+Timer – Pathways, walkways, flag poles, Porte Cohere, Building Entrance.
+Guest rooms – As per IECC provide master switch for all fixed lighting near entrance.  Lights will have local switches (no occupancy sensors)
+
+Dimmer- Public areas like lobby, lounge, meeting room, dining area, breakfast, servery, business center, reception, Pre- Function Area.
+
+Exit sign/lights in meeting rooms, pre-function, bar, lobby, swimming pool, mechanical room, and typical corridor by elevator.
+Wall sconces to be mounted at 6’-8”
+
+Verify with the Owner See Arch
+
+
+
+
+
+10 fc
+30 fc
+2 fc
+2 fc
+
+
+
+
+
+
+
+Hilton: 20 fc
+
+
+Hilton: 20 fc
+
+
+Hilton: 20 fc
+
+No Lights above pool
+Provide underwater incandescent lights of .5 watts/sqft
+IBC Requirement: Minimum 10 fc of illumination at pool water surface and pool wet deck surface
+
+Hilton: 30 fc
+
+
+Hilton:  30 fc
+
+Recessed or decorative lighting is provided with an occupancy sensor or is wired to remain on at all times. (Hilton Requirement)
+Lights wired with an occupancy sensor have a minimum light level of two foot-candles/20 lux maintained when the room is unoccupied. (Hilton Requirement)
+
+Must provide recessed or decorative ceiling-mounted lighting with concealed conduit. Provide lighting on dimmer switches. (Hilton Requirement)
+Lighting for divisible meeting rooms is controlled by local dimmers and by remote dimmers allowing combined dimming control of subdivided spaces. (Hilton Requirement)
+
+Hilton: 50 fc (At Tabletop)
+
+
+Hilton: 30 fc
+
+Code requirement: 10 fc Average
+
+
+Hilton: 20 fc
+
+
+Lights must be wired to an occupancy/daylight sensor with 30-minute delay.  (Hilton Requirement)
+A minimum light level of two foot-candles/20 lux is maintained when the room is unoccupied.
+
+Hilton: 40 fc
+
+
+Hilton: No Requirement
+
+
+
+Hilton: 15 fc (At guest entrance)
+
+
+Hilton: 20 fc (30 fc at Vanity Top)
+
+
+Hilton:
+1. Floor: 10 fc
+2. Pillow: 30 fc
+3. Counter: 30 fc
+4. Closet: 30 fc
+
+Owner to Confirm
+Owner to Confirm
+
+
+Water Loads - Approx. 165 GPM (3" Water Meter-To be confirmed by city-See plans)
+Sanitary Loads - Approx. 746 DFU (8" sanitary line)
+
+IECC C404.6 – pumps will be shut off with temperature switch
+Hot water tanks must meet minimum performance requirements of IECC C405
+120°F Hot water to Guestrooms, Public washrooms & Food Prep Area equipments. 140°F Hot water to 3-Compartment sink Dish washer & Commercial Laundry- Washers
+
+Venting will be done through piping method.
+Client to confirm with local city municipality whether Radon mitigation design design has to be implemented for the project
+
+
+
+
+Client to confirm the water piping material
+If separate water line is required for irrigation civil has to provide the connection which would be outside of the building.
+
+
+In corridor wall or demising wall or in shaft
+In corridor wall or demising wall or in shaft
+In corridor wall or demising wall or in shaft
+In corridor wall or demising wall or in shaft
+
+
+
+Water heaters above 199kBTU input will be classified as boilers. Extra clearances have to be provided in mechanical room increasing the area. Also special inspections have to be carried out for the boilers. Client to confirm the heater selection.
+
+(5)  100 gallon hot water heaters of model 199BTH
+Natural Gas Powered – 199,999 BTU/hr
+All Water heaters placed on 4” raised pad OR Depressed Pads.
+
+(X nos.) IQ-751 Intellihot tankless water heaters(Floor mounted) for 120F; (X no.) IQ-251 Intellihot tankless water heater (Wall mounted) for 140F
+Natural Gas Powered – XXX,XXX BTU/hr resp.
+All floor mounted water heaters placed on 4” raised pad OR Depressed Pads.
+
+X nos. C199iN Rinnai Heaters
+Natural Gas Powered – XXX,XXX BTU/hr
+X nos. storage tanks each of XXX gallons storage capacity
+
+(Xnos.)  SNA(XXX)-Lochinvar Water Heaters
+Natural Gas Powered – XXX,XXX BTU/hr
+All Water heaters placed on 4” raised pad OR Depressed Pads.
+
+Softener along with the water quality report  (client to confirm if required)
+Back flow preventer
+Booster pumps (Based on Flow test)
+Circulation pumps
+Sprinkler valve assembly
+Eyewash stands
+Fire Pump- (If required as per fire calculations)
+External grease interceptor outside the building OR Point of use GI under the 3-compartment sink (Client to confirm ).
+
+Show sump pit in elevator pit
+Ejector pump required (Min. 50 GPM)
+Oil interceptor required  for Hydraulic elevator – For machine less elevators oil interceptor not required  (confirmation needed elevator is Hydraulic/Traction less)
+
+2ft x 2ft x2ft backwash pit with drain
+Show water line to pool
+Provide Deck drains
+Hose bib for pool
+
+Client to confirm how the Storm drainage will take place outside the building- will there be a french drain surrounding the building.
+
+
+
+Client should give us the contact of utility company (for natural gas) and make sure client have filled the gas application. Once we get the utility contact person info, Base4 will contact with gas company and cross check required gas pressure.
+
+Polyethylene piping below grade & Schedule40 Metallic piping above grade
+Gas pipe sizing assuming gas pressure entering gas meter is 2 psi.
+Pressure to be dropped to 1psi at meter via regulator.
+Regulators to be placed at each device to drop to 0.5 psi.
+
+Hot water heaters
+Laundry
+Pool heater
+MAUs
+Fire place.
+Kitchen equipment
+Generator
+
+All floor drains shall have trap primers.
+Provide floor drains in RIS rooms
+Provide Floor Drains in all public restrooms.
+Floor drain in food prep, guest laundry, main laundry, mechanical room, pool equipment, @ floor mounted mechanical units,@linen chute area
+Floor drain in dumpster
+Grundfos, Hyrdomatic or equal
+Holby, Lawler or equal
+
+Client / civil to confirm whether meter pit is required
+
+Trench drain with inbuilt lint filter in main laundry (Code compliant)
+Gas supply to dryers in Main laundry
+Electric/Gas supply to dryers in guest laundry
+Client/vendor to confirm. (Generally we prefer Electric dryers in guest laundry.)
+Floor drains
+
+Ice machine supply with backflow and shock absorber
+Floor drains/ Floor sinks as per code
+
+
+Combine from PTAC & release above grade
+Tied to storm line
+Release to french drain or dry well
+Tied to the nearest sanitary line through an approved receptor.
+
+
+
+
+
+
+Water supply from main building
+Water supply from irrigation
+Client to confirm
+
+
+
+Base4 will review fire protection drawings supplied by vendor designed by professional engineer
+Wet system for building
+Dry system for attic spaces.
+Fire sprinklers are not required in Porte Cochere area if made up of non-combustible or medium combustible material.
+
+Guest Rooms, Corridors, Meeting rooms, toilet rooms, etc. are under Light hazard classification.
+Kitchen, parking garage, mechanical rooms, electrical rooms, storage rooms and ball rooms are under Ordinary Hazard group-1 classification
+
+
+
+
+
+Provide space in Mechanical Room - fire pump will be shown in the mechanical room connected to the transformer with a separate service and meter.  The fire protection engineer will later calculate if a pump is required.  If the electric company is not considered a reliable source of power, the pump will need a generator.
+Provide exterior access door for sprinkler valve assembly in Mech. room/fire pump room. Client to confirm.
+
+
+CMU elevator and stair walls
+Wood Shear Walls
+
+Yes/No
+Poured
+Owner/GC to be confirmed
+Yes/No- Poured as part of foundation or CMU on Footing
+
+Assume 2500 psf (pending Geo Report)
+
+Pending Geo Report – assume xx”
+
+4" Concrete
+Advantech Sub Floor for all B4-108 Jobs.  Remove line for all other jobs
+15/32" OR 19/32" OR 23/32"- To be finalise after 30%
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X16 TJI Floor +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+Corridor to Exterior
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X8 Floor Joist (Glass Fiber Insulation) +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+Perpendicular to corridor
+5/8" Roof Sheathing, 16" Engineered Wood I joist spaced 24" max., 1/2" Resilient Channel, 2 layers 5/8" fire rated Gypsum Board refer to UL
+Corridor to Exterior
+15/32" OR 19/32" OR 23/32"- To be finalise after 30%
+5/8
+<down>5/8" Type X Gypsum board + 5/8" Type X Gypsum board +1/2" Resilient Channel+ 2X8 Floor Joist (Glass Fiber Insulation) +3/4" Plywood Deck + 3/4" Gypcrete Topping <roof>
+Perpendicular to corridor
+
+2x6
+2x6
+2x6
+Wood
+Wood
+
+HSS Tubes
+WF
+SPF#2 or Better
+
+NA
+Elevated Isolation Slab and Trench detail with size according to number of washing machines
+need for roll in shower on ground floor
+
+Poured (Preferred)
+W#x## OR (TO BE SIZED IN ACCORDANCE WITH THE ELEVATOR)
+
+Wood (treated or Standard)/Steel/Concrete Precast
+No moveable partitions
+All retaining walls to be by Civil engineer
+Masonry /RC Piers
+12” or 14" concrete pad for Washer
+4" thick concrete pad for MSB Pad
+
+
+State Code (If any) {Ex:- For Florida, FBC 2017 (6th Edition) }
+IBC 2015
+ASCE 7-10
+
+II
+
+17 psf
+23 psf
+23 psf
+23 psf
+23 psf
+25 psf
+
+20 psf
+40 psf
+40 psf
+100 psf
+100 psf
+100 psf
+100 psf
+100 psf
+125 psf
+100 psf
+150 psf
+50 psf
+100 psf
+125 psf
+150 psf
+60 psf
+
+ASCE 7-10
+115mph (verified by ATC http://windspeed.atcouncil.org/ )
+C
+
+ASCE 7-10
+35 psf
+1.0
+1.0
+0:12
+R:30
+
+ASCE 7-10, Reference http://earthquake.usgs.gov/designmaps/us/application.php
+D (verify with Soils Report)
+0.163g
+0.057g
+0.174g
+0.091g
+6S
+
+R=2 (ORDINARY REINFORCED MASONRY SHEAR WALLS)
+R= 6.5 (LIGHT FRAMED WALLS SHEATHED WITH WOOD STRUCTURAL PANELS)
+R=4 (LIGHT- FRAME WALL SYSTEM WITH FLAT STRAP BRACING)
+
+NA
+Refer to ME DWGS
+Ground floor
+None
+
+---------------------------------------
+
